@@ -1,0 +1,29 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 334df3b8-d615-45b6-9ef1-e2e03a824d96
+  title: Introduction to Machine Learning 
+  description: Course notes for Introduction to Machine Learning
+  keywords: [machine learning, data science, AI, marine science, climate science]
+  authors: [Mike Wood]
+  github: https://github.com/ProfMikeWood/machine_learning_book
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: intro.md
+    - title: Getting Started
+      children:
+        - file: getting_started/setting_up_python_and_jupyter.md
+    - title: Basics
+      children:
+        - file: basics/overview.ipynb
+        - file: basics/linear_regression.ipynb
+        - file: basics/linear_regression_class.ipynb
+    - title: Getting Started
+      children:
+        - file: references.md
+site:
+  template: book-theme
+  options:
+    logo: logo.png
+  #   favicon: favicon.ico
+    

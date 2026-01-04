@@ -1,0 +1,12 @@
+jupyter-book
+numpy
+matplotlib
+pytorch
+torchvision
+pandas
+netcdf4
+scipy
+scikit-learn
+jupyter
+jupyterlab
+git
