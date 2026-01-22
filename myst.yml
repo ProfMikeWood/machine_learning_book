@@ -18,7 +18,7 @@ project:
         - file: basics/overview.ipynb
         - file: basics/linear_regression.ipynb
         - file: basics/linear_regression_class.ipynb
-    - title: Getting Started
+    - title: Resources
       children:
         - file: references.md
 site:
