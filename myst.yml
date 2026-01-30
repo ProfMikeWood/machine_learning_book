@@ -13,6 +13,7 @@ project:
     - title: Getting Started
       children:
         - file: getting_started/setting_up_python_and_jupyter.md
+        - file: getting_started/linear_algebra_primer.ipynb
     - title: Basics
       children:
         - file: basics/overview.ipynb
