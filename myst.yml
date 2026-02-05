@@ -19,6 +19,11 @@ project:
         - file: basics/overview.ipynb
         - file: basics/linear_regression.ipynb
         - file: basics/linear_regression_class.ipynb
+    - title: Classifiers
+      children:
+        - file: classifiers/perceptrons.ipynb
+        - file: classifiers/logistic_regression.ipynb
+        - file: classifiers/classifiers_in_scikitlearn.ipynb
     - title: Resources
       children:
         - file: references.md
