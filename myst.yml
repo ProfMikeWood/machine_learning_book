@@ -19,6 +19,7 @@ project:
         - file: basics/overview.ipynb
         - file: basics/linear_regression.ipynb
         - file: basics/linear_regression_class.ipynb
+        - file: basics/multiple_linear_regression.ipynb
     - title: Classifiers
       children:
         - file: classifiers/perceptrons.ipynb
