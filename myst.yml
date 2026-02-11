@@ -25,6 +25,8 @@ project:
         - file: classifiers/perceptrons.ipynb
         - file: classifiers/logistic_regression.ipynb
         - file: classifiers/classifiers_in_scikitlearn.ipynb
+        - file: classifiers/knn.ipynb
+        - file: classifiers/decision_trees.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
