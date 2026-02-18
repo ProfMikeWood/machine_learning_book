@@ -27,6 +27,9 @@ project:
         - file: classifiers/classifiers_in_scikitlearn.ipynb
         - file: classifiers/knn.ipynb
         - file: classifiers/decision_trees.ipynb
+    - title: Regression
+      children:
+        - file: regression/random_forests.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
