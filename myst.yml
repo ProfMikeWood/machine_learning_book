@@ -30,6 +30,7 @@ project:
     - title: Regression
       children:
         - file: regression/random_forests.ipynb
+        - file: regression/xgboost.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
