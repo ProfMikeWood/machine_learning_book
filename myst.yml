@@ -28,7 +28,7 @@ project:
         - file: classifiers/decision_trees.ipynb
     - title: Regression
       children:
-        - file: basics/multiple_linear_regression.ipynb
+        - file: regression/multiple_linear_regression.ipynb
         - file: regression/random_forests.ipynb
         - file: regression/xgboost.ipynb
     - title: Neural Networks
