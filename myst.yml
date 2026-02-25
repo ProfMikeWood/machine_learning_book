@@ -19,7 +19,6 @@ project:
         - file: basics/overview.ipynb
         - file: basics/linear_regression.ipynb
         - file: basics/linear_regression_class.ipynb
-        - file: basics/multiple_linear_regression.ipynb
     - title: Classifiers
       children:
         - file: classifiers/perceptrons.ipynb
@@ -29,8 +28,14 @@ project:
         - file: classifiers/decision_trees.ipynb
     - title: Regression
       children:
+        - file: basics/multiple_linear_regression.ipynb
         - file: regression/random_forests.ipynb
         - file: regression/xgboost.ipynb
+    - title: Neural Networks
+      children:
+        - file: neural_networks/single_layer_perceptron.ipynb
+        - file: neural_networks/multi_layer_perceptron.ipynb
+        - file: neural_networks/multi_layer_perceptron_pytorch.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
