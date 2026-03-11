@@ -39,6 +39,7 @@ project:
     - title: Convolutional Neural Networks
       children:
         - file: convolutional_neural_networks/image_classification.ipynb
+        - file: convolutional_neural_networks/image_segmentation.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
