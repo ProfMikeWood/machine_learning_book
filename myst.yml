@@ -40,6 +40,7 @@ project:
       children:
         - file: convolutional_neural_networks/image_classification.ipynb
         - file: convolutional_neural_networks/image_segmentation.ipynb
+        - file: convolutional_neural_networks/yolo_object_detection.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
