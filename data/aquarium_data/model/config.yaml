@@ -1,0 +1,6 @@
+names:
+- Fish
+nc: 1
+path: ../data/aquarium_data/model
+train: train/images
+val: val/images
