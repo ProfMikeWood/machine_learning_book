@@ -36,6 +36,7 @@ project:
         - file: neural_networks/single_layer_perceptron.ipynb
         - file: neural_networks/multi_layer_perceptron.ipynb
         - file: neural_networks/multi_layer_perceptron_pytorch.ipynb
+        - file: neural_networks/emulators_and_pinns.ipynb
     - title: Convolutional Neural Networks
       children:
         - file: convolutional_neural_networks/image_classification.ipynb
