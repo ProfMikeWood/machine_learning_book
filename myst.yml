@@ -45,6 +45,8 @@ project:
     - title: Unsupervised Learning
       children:
         - file: unsupervised/clustering_with_kmeans.ipynb
+        - file: unsupervised/density_based_clustering.ipynb
+        - file: unsupervised/clustering_example_turbulence.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
