@@ -47,6 +47,11 @@ project:
         - file: unsupervised/clustering_with_kmeans.ipynb
         - file: unsupervised/density_based_clustering.ipynb
         - file: unsupervised/clustering_example_turbulence.ipynb
+    - title: Large Language Models
+      children:
+        - file: LLMs/embedding.ipynb
+        - file: LLMs/attention.ipynb
+        - file: LLMs/gpt2_pytorch.ipynb
     # - title: Resources
     #   children:
     #     - file: references.md
